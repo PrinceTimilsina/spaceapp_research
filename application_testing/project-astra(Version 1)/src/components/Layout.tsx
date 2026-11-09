@@ -35,8 +35,8 @@ export default function Layout() {
         <div className="mx-auto flex h-14 max-w-[1500px] items-center gap-4 px-4">
           <Link to="/" className="flex shrink-0 items-center gap-2" aria-label="PROJECT ASTRA home">
             <img src={`${import.meta.env.BASE_URL}logomain.png`} alt="" className="h-7 w-7" />
-            <span className="font-semibold tracking-[0.18em] text-ink">
-              ASTRA
+            <span className="font-semibold text-ink">
+              Project Astra
             </span>
           </Link>
           <nav aria-label="Primary" className="flex min-w-0 flex-1 gap-1 overflow-x-auto">
