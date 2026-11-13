@@ -1,8 +1,0 @@
-node_modules
-dist
-*.tsbuildinfo
-.DS_Store
-playwright-report
-test-results
-pipeline/.cache
-pipeline/__pycache__
